@@ -1,0 +1,8 @@
+Origin: Rabih M's Repo
+Label: rabih96
+Suite: stable
+Version: 1.0
+Codename: rabih96
+Architectures: iphoneos-arm
+Components: main
+Description: My private repo
